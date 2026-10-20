@@ -1,9 +1,9 @@
 
 ## My S3 buckets
-Public: https://public-caj6xv.s3.amazonaws.com/index.html
+Public collection: https://public-caj6xv.s3.amazonaws.com/index.html
+Private bucket: s3://secret-caj6xv/pg514.txt
 
-Private:
-https://secret-caj6xv.s3.amazonaws.com/pg514.txt
+(RUN IN TERMINAL: ./share_book.sh https://www.gutenberg.org/cache/epub/514/pg514.txt secret-caj6xv 604800)
 
 I would use a public S3 bucket when I want files to be accessible to anyone, such as a collection of public-domain books. I would use a private bucket with a presigned URL when I want to share a specific file with someone temporarily without giving them access to the entire bucket.
 
