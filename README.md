@@ -1,7 +1,8 @@
 
 ## My S3 buckets
 Public collection: https://public-caj6xv.s3.amazonaws.com/index.html
-Private bucket: s3://secret-caj6xv/pg514.txt
+
+Private bucket: [s3://secret-caj6xv/pg514.txt](https://secret-caj6xv.s3.amazonaws.com/pg514.txt?AWSAccessKeyId=ASIA43SV467KXKXUYWBD&Signature=wyuafFB1r1sMBlbBBNVNNClvZdg%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEIf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDeMnhxhCDlvBQyBXV1Q7SLuzflzTqX1ygmBGdrcSvANgIhAPoUg%2BiSWPbEiyVE2BhfpAgzLhdcLy59rt0PzXXDCGXBKq0CCFAQARoMODgzODY5Njc3NTI1Igzy64c8vw%2Bq%2BWuIefcqigJsCMPaRScjndvQP4Ht8PQxAccw1aBpivBqsAdS8yzSJdk9nSZ6hc%2FC7ld%2FiEvScWp7f2ZYzitZV%2FNBQIn3TEKHBUhegY6tqM%2F0MJ673A7efA%2BzA%2FuD6OVrB9E9Yl9ugNV7MpprDijK6PF1wN6EOaUTIPNvbYhNnzzbGItaePIpQmIg2CuNFkFga0j5a1C0PvcJIeocWbFzLZ%2FVeWcFdqnk3I31dmBLJM79JAJKya6F7gDv11uPhUi04glR8QRbS%2B0p3KchQxC7rCWABfyu%2FNjfLtCUtSxuIfjIhs99VOZ6jvylfKEBo0QRTzxix0x3Zes9ARRTA9VUk2omTOAWUMhRFIlFTybM1UqxQTDr3d%2FWBjqcAZ%2B1WS12md7dGGKo%2FnMMWuwdcGeYTEBqC2pMzmx%2BUBVJgzF%2FNPO2oHKha7m7OYnTQRKgEkwBxcuid%2FIyDEcxPn3SzUg0zRb%2BXlv1nRd7STtM1JSFZZ94gfcj07UUQPWRnbNXI8%2FvIfF6NTUHoX4fiBTkiYTS9jKDYwS98nrKsjzErKJiHzMWdAsMMgLiD4QjeE9QxByhf0w80F3hNw%3D%3D&Expires=1793141325)
 
 (RUN IN TERMINAL: ./share_book.sh https://www.gutenberg.org/cache/epub/514/pg514.txt secret-caj6xv 604800)
 
