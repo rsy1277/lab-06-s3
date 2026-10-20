@@ -3,7 +3,7 @@
 Public: https://public-caj6xv.s3.amazonaws.com/index.html
 
 Private:
-https://secret-caj6xv.s3.amazonaws.com/pg514.txt?AWSAccessKeyId=ASIA43SV467KXE7A7AKD&Signature=l58JewwuPWG5GZFpxPu%2BDuvBqRI%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEGoaCXVzLXdlc3QtMiJHMEUCIQDFjpe%2FXrtKtmRP3%2Fk5WbLxEDVMAODJyFvSBQ3ZIf%2BAiAIgRJVE%2BdeTuk0TWQrUuxRj6Y0AjN7uGGfMloYVeeJktrcqrQIIMxABGgw4ODM4Njk2Nzc1MjUiDNR3lDPpttTiuudpKSqKAh9vee1D13R3f94yPCm%2BE0LyESQ6Z6iz0H8chaI9cACwHw%2Fy0bwKyYTCvd0DRAIOSHvDGDToNi1Bef8dD6%2Fu9i6bIPrC5MmXvDiJ3nvi12Rnw6pjlpZjamYYYuoJLIjQoL8DyESPBhPJr8PvE%2BCD1la%2BxDIMvgkbxg6gCiZC3t%2BNc3QW8O4b05RWdcfG5ufk%2FJs%2FJKe54ZloBfTykX1dhlPB%2BjBXvXi1ciBviMdGPLyHV%2FbTMj8u%2FhBj6RSxsnfvbvGsDVxSg%2FaL77CGfmhmiuwUzwaxTLhJywLR6MGpBPpxpsMXCSGng29I%2BisNhF1E1mrzfaDzjVeLnFX0JpapbMoxZM3zWT4J7aq8MKem2dYGOp0B8jX8bWmC8e4G%2BaGPGR%2BjHfapRHs0XVlf0BeNEvwIDL%2FLSQJv4ZeWHXBn%2FVJarvNkYqNl3BDuFNzvMegzp6RgmkibbpzZEahSINwT9o4EyuelIDJxhUsssbRcTKsX472rMrzGtoWQjGuUjKorOTTc6nbPNqU3SdRgcyUU2ejKNBGhs08eZKfhbtbsarRosqo6Gfvwjwjb1%2Bqx4lwXAw%3D%3D&Expires=1793039054
+https://secret-caj6xv.s3.amazonaws.com/pg514.txt
 
 I would use a public S3 bucket when I want files to be accessible to anyone, such as a collection of public-domain books. I would use a private bucket with a presigned URL when I want to share a specific file with someone temporarily without giving them access to the entire bucket.
 
